@@ -1,13 +1,5 @@
 {
     "custodians" : [
-        {
-            "address" : "BExP2RYt43WsPCHGFH8PuwntbC26J19xUz",
-            "amount" : 4760.0
-        },
-        {
-            "address" : "BA8di3FFBADAFQmRwEqiAocrkBoMDPBQQu",
-            "amount" : 1.0
-        }
     ],
     "parkrates" : [
         {
@@ -53,6 +45,7 @@
         }
     ],
     "motions" : [
+        "f27c979e0ba6f8dfc77a4305ccdc9ed9452230b2"
     ],
     "fees" : {
         "B" : 0.01
