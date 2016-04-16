@@ -1,20 +1,12 @@
 {
     "custodians" : [
         {
-            "address" : "BD8ork1pAt3vuVgGaX7j9Ei66xT3vvqrg2",
-            "amount" : 1.0
+            "address" : "BFRhngri9DLUnatcnhSJrZDk5J7u3Mhu5H",
+            "amount" : 440.0
         },
         {
-            "address" : "BAs6fhm6bfJ1b6LGnDQwah1C8frfVjjWhm",
-            "amount" : 1360.0
-        },
-        {
-            "address" : "BLYdibXLb7ixXgKW5bFVD4KiCRLkyk6Ks6",
-            "amount" : 4760.0
-        },
-        {
-            "address" : "B6t3WuYQvqEW9SqjmpJDA1oy9cXbyFzgoq",
-            "amount" : 3000.0
+            "address" : "BC84Af1QuytYF37yTd1hf34zRKnLWTJoTA",
+            "amount" : 750.0
         }
     ],
     "parkrates" : [
@@ -22,46 +14,21 @@
             "unit" : "B",
             "rates" : [
                 {
-                    "blocks" : 1024,
-                    "rate" : 0.00000195
-                },
-                {
-                    "blocks" : 2048,
-                    "rate" : 0.00000974
-                },
-                {
-                    "blocks" : 4096,
-                    "rate" : 0.00003894
-                },
-                {
-                    "blocks" : 8192,
-                    "rate" : 0.00007788
-                },
-                {
-                    "blocks" : 16384,
-                    "rate" : 0.00015575
-                },
-                {
                     "blocks" : 32768,
-                    "rate" : 0.00062301
+                    "rate" : 0.0046726
                 },
                 {
                     "blocks" : 65536,
-                    "rate" : 0.00311507
+                    "rate" : 0.01246026
                 },
                 {
                     "blocks" : 131072,
-                    "rate" : 0.00623013
-                },
-                {
-                    "blocks" : 262144,
-                    "rate" : 0.01246026
+                    "rate" : 0.03738079
                 }
             ]
         }
     ],
     "motions" : [
-        "a951e9e8e72bcb313eb7fc6c65c797ccb53b9ef0"
     ],
     "fees" : {
         "B" : 0.01
