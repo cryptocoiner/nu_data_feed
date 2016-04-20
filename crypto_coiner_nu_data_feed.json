@@ -7,12 +7,20 @@
         {
             "address" : "BC84Af1QuytYF37yTd1hf34zRKnLWTJoTA",
             "amount" : 750.0
+        },
+        {
+            "address" : "BEuimmeoME52rKhiuiXvGBoTKP8r5fPwrp",
+            "amount" : 4760.0
         }
     ],
     "parkrates" : [
         {
             "unit" : "B",
             "rates" : [
+                {
+                    "blocks" : 16384,
+                    "rate" : 0.0023363
+                },
                 {
                     "blocks" : 32768,
                     "rate" : 0.00623013
