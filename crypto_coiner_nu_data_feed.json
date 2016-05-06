@@ -1,9 +1,5 @@
 {
     "custodians" : [
-        {
-            "address" : "B9gXptkoqAApF3AFrQyhUbhSzvuEudxupt",
-            "amount" : 90.0
-        }
     ],
     "parkrates" : [
         {
@@ -11,19 +7,19 @@
             "rates" : [
                 {
                     "blocks" : 16384,
-                    "rate" : 0.0023363
+                    "rate" : 0.00218055
                 },
                 {
                     "blocks" : 32768,
-                    "rate" : 0.00623013
+                    "rate" : 0.00498411
                 },
                 {
                     "blocks" : 65536,
-                    "rate" : 0.01869039
+                    "rate" : 0.01121424
                 },
                 {
                     "blocks" : 131072,
-                    "rate" : 0.06230132
+                    "rate" : 0.02492053
                 }
             ]
         }
