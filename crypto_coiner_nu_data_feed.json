@@ -7,26 +7,28 @@
             "rates" : [
                 {
                     "blocks" : 16384,
-                    "rate" : 0.02336299
+                    "rate" : 0.0
                 },
                 {
                     "blocks" : 32768,
-                    "rate" : 0.04672599
+                    "rate" : 0.0
                 },
                 {
                     "blocks" : 65536,
-                    "rate" : 0.09345197
+                    "rate" : 0.0
                 },
                 {
                     "blocks" : 131072,
-                    "rate" : 0.18690395
+                    "rate" : 0.03738079
                 }
             ]
         }
     ],
     "motions" : [
         "f24470e836ed480b3b5a39c4a7c1fe7df111cf3d",
-        "c54a165234d50c9df95367bae4e79d902e3344ab"
+        "c54a165234d50c9df95367bae4e79d902e3344ab",
+        "8688c842023109881ad6a77bc8bdfe8f5c1704dc",
+        "f8b9e060dc73a97fd28a62ecfdd419114892787a"
     ],
     "fees" : {
         "B" : 0.01
